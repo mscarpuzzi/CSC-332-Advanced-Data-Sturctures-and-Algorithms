@@ -1,0 +1,9 @@
+How to run the program?
+Run PA-5-Executable.exe
+Enter number of jobs.
+Enter start, stop, and value of each job as prompted.
+
+Group member contributions:
+Jared Necaise: 100%
+Michael Scarpuzzi: 100%
+Trey Williams: 100%

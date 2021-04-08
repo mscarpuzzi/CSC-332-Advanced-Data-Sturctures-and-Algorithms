@@ -1,0 +1,15 @@
+Team-Necaise-Scarpuzzi-Williams
+Advanced Data Structures
+PA-1 Efforts
+
+How to run program:
+No user interaction is necessary. Program generates eight .csv results when
+executed.
+
+How were the spreadsheets generated?
+The program automaticaly generates the spreadsheets as it processed the data.
+
+Group member contributions:
+Jared Necaise: 100%
+Michael Scarpuzzi: 100%
+Trey Williams: 100%

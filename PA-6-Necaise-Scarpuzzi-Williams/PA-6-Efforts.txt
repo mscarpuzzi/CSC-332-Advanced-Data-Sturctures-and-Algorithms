@@ -1,0 +1,9 @@
+How to run the program?
+Open PA-6-Executable.exe
+Enter sequences and scoring values
+Click 'Submit'
+
+Group member contributions
+Jared Necaise: 100%
+Michael Scarpuzzi: 100%
+Trey Williams: 100%

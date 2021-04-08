@@ -1,0 +1,10 @@
+How to run the program?
+Open PA-4-Executable.exe
+Fill in desired settings.
+Hit 'Submit'
+
+Group member contributions
+Jared Necaise: 100%
+Michael Scarpuzzi: 100%
+Trey Williams: 100%
+

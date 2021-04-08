@@ -1,0 +1,26 @@
+Team Necaise, Scarpuzzi, Williams
+PA-2
+
+--How to run the program--
+Executable opens a GUI for the user.
+
+Mergesort_Time.csv will be placed in program
+directory at that time. 
+
+Left side of GUI contains a selection box to 
+select desired array for display. Unsorted and 
+sorted arrays are displayed in in labeled 
+fields to the right.
+
+Select desired array and click 'Select Array'.
+
+Click 'X' in top right corner to exit.
+
+--How was the spreadsheet generated?--
+Mergesort_Time.csv is generated automatically
+by the program at runtime.
+
+--Group member contribution--
+Jared Necaise: 100%
+Michael Scarpuzzi: 100%
+Trey Williams: 100%

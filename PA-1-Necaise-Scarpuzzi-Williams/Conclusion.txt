@@ -1,0 +1,32 @@
+Team-Necaise-Scarpuzzi-Williams
+Advanced Data Structures
+PA-1 Conclusion
+
+Conclusions
+
+*The data given in this text file was recorded in nanoseconds rounded to the first decimal place*
+
+1. Out of 1,000 pairs of integers, brute-force (v2) outperformed brute-force (v1) in xx pairs; and the average saved time for these x1 pairs of integers was xx1 milliseconds.
+# of pairs outperformed: 221
+Avg save time of the pairs: 1818.1 Nanoseconds
+
+2. Out of 1,000 pairs of integers, the original version of Euclid outperformed brute-force (v1) in xx pairs; and the average saved time for these x2 pairs of integers was xx2 milliseconds.
+# of pairs outperformed: 996
+Avg save time of the pairs: 21921.4 Nanoseconds
+
+3. Out of 1,000 pairs of integers, the original version of Euclid outperformed brute-force (v2) in xx pairs; and the average saved time for these x3 pairs of integers was xx3 milliseconds.
+# of pairs outperformed: 999
+Avg save time of the pairs: 21818.6 Nanoseconds
+
+4. Out of 1,000 pairs of integers, the second version of Euclid outperformed the original version of Euclid in xx pairs; and the average saved time for these x1 pairs of integers was xx1 milliseconds.
+# of pairs outperformed: 86
+Avg save time of the pairs: 102.3 Nanoseconds
+
+5. Out of 1,000 pairs of integers, the second version of Euclid outperformed brute-force (v1) in xx pairs; and the average saved time for these x2 pairs of integers was xx2 milliseconds.
+# of pairs outperformed:  995
+Avg save time of the pairs: 21931.7 Nanoseconds
+
+6. Out of 1,000 pairs of integers, the second version of Euclid outperformed brute-force (v2) in xx pairs; and the average saved time for these x3 pairs of integers was xx3 milliseconds.
+# of pairs outperformed: 999
+Avg save time of the pairs: 21807.0 Nanoseconds
+

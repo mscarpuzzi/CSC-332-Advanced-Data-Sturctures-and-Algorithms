@@ -1,0 +1,13 @@
+How to run the program?
+Open PA-7-Executable
+
+Enter a node and it's adjacent nodes.
+Press Add Node.
+Continue adding nodes until all nodes are added.
+
+Once all nodes are entered press Search
+
+Group memeber contributions:
+Jared Necaise: 100%
+Michael Scarpuzzi: 100%
+Trey Williams: 100%

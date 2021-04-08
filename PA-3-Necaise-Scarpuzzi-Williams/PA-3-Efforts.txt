@@ -1,0 +1,9 @@
+How to run the program?
+Execute PA-3-Executable.exe. Enter starting number in top box. Select algorithm
+in middle box. Click 'Generate Number'.
+To export .cvs files, click 'File' then 'Generate Benchmarks'.
+
+Group member conributions:
+Jared Necaise: 100%
+Michael Scarpuzzi: 100%
+Trey Williams: 100%

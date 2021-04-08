@@ -1,0 +1,8 @@
+n, F(n), T1: Time spent on the recursive algorithm (nanoseconds), T1: Time spent on the DP algorith (nanoseconds), Value of (2^n)/n, Value of T1/T2
+10, 55, 20300, 2600, 1e+02, 8e+00
+12, 144, 48200, 1200, 3e+02, 4e+01
+15, 610, 202000, 1200, 2e+03, 2e+02
+20, 6765, 2260600, 3100, 5e+04, 7e+02
+23, 28657, 9716600, 5400, 4e+05, 2e+03
+25, 75025, 26896900, 5900, 1e+06, 5e+03
+30, 832040, 306608700, 7100, 4e+07, 4e+04
